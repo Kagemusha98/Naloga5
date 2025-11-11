@@ -5,8 +5,7 @@ Nastal je leta 2005, ko ga je Linus Torvalds razvil za upravljanje izvorne kode 
 Od takrat se je Git razširil in postal **standard** v svetu razvoja programske opreme.
 
 Git omogoča, da vsak razvijalec dela **lokalno** na svojem repozitoriju, nato pa spremembe deli z drugimi preko **oddaljenega repozitorija** (npr. GitHub, GitLab ali Bitbucket).  
-
-**S tem se zmanjša možnost konfliktov** in izgube *podatkov.*
+S tem se zmanjša možnost konfliktov in izgube *podatkov.*
 Za deljenje uporablja ukaze kot so: git clone, git pull, git add, git comit in git push.
 
 ## Glavne značilnosti
