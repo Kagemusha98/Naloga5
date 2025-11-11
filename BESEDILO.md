@@ -10,6 +10,8 @@ Za deljenje uporablja ukaze kot so: git clone, git pull, git add, git comit in g
 
 ## Glavne značilnosti
 
+asdasdaddddddddddddddddddddddddddddd
+:
 - **Zgodovina sprememb**: vsak commit predstavlja točko v zgodovini projekta.  
 - **Veje**: omogočajo razvoj različnih funkcionalnosti vzporedno.  
 - **Skladnost (merge)**: Git zna združiti spremembe različnih razvijalcev.  
